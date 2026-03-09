@@ -45,7 +45,7 @@ El toolchain permite realizar el flujo completo de diseño digital: simulación,
 
 ### Evidencia
 
-![Uso del toolchain](imagenes/parte2.png)
+![Uso del toolchain](parte2.png)
 
 ---
 
@@ -64,7 +64,7 @@ Este proceso representa el flujo típico de desarrollo en FPGA, donde un diseño
 
 ### Evidencia
 
-![Primer diseño](imagenes/parte3.png)
+![Primer diseño](parte3.png)
 
 ---
 
@@ -82,7 +82,7 @@ Esta etapa permite confirmar que el diseño digital funciona correctamente no so
 
 ### Evidencia
 
-![Implementación en FPGA](imagenes/parte4.png)
+![Implementación en FPGA](parte4.png)
 
 ---
 
