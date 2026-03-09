@@ -25,7 +25,7 @@ Estas herramientas permiten escribir, compilar y programar diseños digitales di
 
 ### Evidencia
 
-![Instalación de herramientas](imagenes/parte1.png)
+![Instalación de herramientas](parte1.png)
 
 ---
 
